@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larimarr&theme=cobalt&show_icons=true&exclude_repo=hotel_bookings_study)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Larimarr=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larimarr&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,sklearn,docker,vscode,discord)](https://skillicons.dev)
 <!--
