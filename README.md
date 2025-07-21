@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,py,go,sklearn,docker,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,sklearn,docker,vscode,discord)](https://skillicons.dev)
 <!--
 **Larimarr/Larimarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
