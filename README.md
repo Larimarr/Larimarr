@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,sklearn,docker,vscode,discord)](https://skillicons.dev)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontAlign=50&textBg=false&fontSize=80&fontAlignY=50&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EEFF00,100:a82da8&section=footer&fontAlign=50&textBg=false&fontSize=80&fontAlignY=50&reversal=true)
 <!--
 **Larimarr/Larimarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
