@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Larimarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larimarr&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larimarr&theme=cobalt&show_icons=true&exclude_repo=hotel_bookings_study)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,sklearn,docker,vscode,discord)](https://skillicons.dev)
 <!--
 **Larimarr/Larimarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
